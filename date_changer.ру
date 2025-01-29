@@ -1,0 +1,3 @@
+name = print(input("Как вас зовут?"))
+surname = print(input("Как ваша фамилия?"))
+age = int(input('Сколько вам лет?'))
